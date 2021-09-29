@@ -1,0 +1,51 @@
+Sender,Receiver,Timestamp,Message
+A,B,09:00,Hi
+B,A,09:10,Hello
+A,B,09:10,Person J died 
+B,A,09:10,We are going to miss him
+A,B,09:10,Convey to all friends
+B,C,09:15,Person J died
+B,D,09:15,Person J died
+B,E,09:15,Person J died
+B,F,09:15,Person J died
+B,G,09:15,Person J died
+B,H,09:15,Person J died
+B,I,09:15,Person J died
+B,J,09:15,Person J died
+B,K,09:15,Person J died
+J,B,09:20,Go to hell.I am completely alright
+B,J,09:20,Sorry bro...was informed wrong.
+B,A,09:20,Person J is good.Don't spread fake news 
+A,B,09:25,Haha time pass..
+H,I,11:00,Pubg banned bro
+I,H,11:10,Oh really.Don't worry bro.Will come back stronger
+H,J,11:10,Pubg banned bro
+J,H,11:10,Oh god how will our friends react 
+J,B,11:10,Pubg banned bro
+J,C,11:10,Pubg banned bro
+J,D,11:10,Pubg banned bro
+J,E,11:10,Pubg banned bro
+H,B,11:15,Pubg banned bro
+J,F,11:20,Pubg banned bro
+H,K,11:20,Pubg banned bro
+J,A,11:20,Pubg banned bro
+J,B,11:30,2020 is getting worse bro
+B,H,11:30,Yes bro Person J informed me.Hard time bro
+D,J,11:33,Sad
+E,J,11:35,"Instagram has reels,and you have hahaha"
+J,E,11:35,Don't feel happy.Instagram will remove the reels feature in the new update haha
+E,J,11:35,WHAT
+J,E,11:35,True bro
+E,B,11:35,Instagram will remove the reels feature in the new update
+E,C,11:35,Instagram will remove the reels feature in the new update
+E,D,11:35,Instagram will remove the reels feature in the new update
+E,F,11:35,Instagram will remove the reels feature in the new update
+B,M,11:45,Instagram will remove the reels feature in the new update
+C,E,11:45,I have more important news
+E,C,11:45,WHAT
+C,E,11:45,Schools reopen next month
+E,C,11:45,Finally feeling good!!
+E,K,11:45,Schools reopen next month
+E,L,11:45,Schools reopen next month
+E,M,11:45,Schools reopen next month
+E,N,11:45,Schools reopen next month
